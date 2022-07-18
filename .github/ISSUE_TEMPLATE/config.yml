@@ -3,8 +3,8 @@ contact_links:
     url: https://github.com/antfu/contribute
     about: Please read through before making contributions.
   - name: 💬 Nobita's Discord Server
-    url: https://discord.gg/Dd3ZtENvKG/
+    url: https://discord.gg/Dd3ZtENvKG
     about: Want to discuss / chat with the community? Here you go!
   - name: ⁉️ Why and How to make a reproduction?
-    url: https://bbcvc.me/posts/why-reproductions-are-required
+    url: https://antfu.me/posts/why-reproductions-are-required
     about: Reproduction is very important for maintainer to help on your issues!
